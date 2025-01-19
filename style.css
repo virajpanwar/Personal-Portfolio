@@ -8,6 +8,13 @@ button#show-work {
     font-size: 30px;
     border-radius: 10px;
   }
+  button#contact-me {
+    background: #161616;
+    color: #ffffff;
+    font-size: 30px;
+    border-radius: 10px;
+  }
+  
 div#main-box {
     display: flex;
     flex-direction: column;
